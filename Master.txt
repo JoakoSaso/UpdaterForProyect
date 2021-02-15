@@ -3,4 +3,6 @@
 /data/test.zip https://wordpress.org/latest.zip
 <End of Version>
 
-
+<Version: 1.0.3>
+/data/Map060.json https://raw.githubusercontent.com/JoakoSaso/UpdaterForProyect/main/Map060.json
+<End of Version>
